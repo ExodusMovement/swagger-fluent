@@ -1,5 +1,5 @@
 {
-  "name": "swagger-fluent",
+  "name": "@exodus/swagger-fluent",
   "version": "5.0.3-exodus.0",
   "description": "A fluent client for OpenAPI and Swagger",
   "main": "./lib/index.js",
