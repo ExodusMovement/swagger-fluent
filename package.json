@@ -10,7 +10,7 @@
   },
   "repository": "ExodusMovement/swagger-fluent",
   "files": [
-    "lib"
+    "lib/**/*.js"
   ],
   "keywords": [
     "swagger",
